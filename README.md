@@ -26,7 +26,7 @@ Tui hơi ngốc nghếch một chút 🐰, nhưng luôn thích học hỏi và c
 ## 📊 Một chút thống kê GitHub
 | Học phần |  Quy mô | Repository | Website |
 |:---------:|:---------:|:---------:|:---------:|
-| Thiết kế Web |  Cá nhân | [![TkWeb](https://img.shields.io/badge/🎀_Repository-blue?style=for-the-badge)](https://github.com/Riliane05/2311COMP180201-TKWEB-49.01.103.068) | [![Home](https://img.shields.io/badge/🐻‍❄️_Website-FFB347?style=for-the-badge)](https://github.com/Riliane05/2311COMP180201-TKWEB-49.01.103.068) |
+| Thiết kế Web |  Cá nhân | [![TkWeb](https://img.shields.io/badge/🎀_Repository-blue?style=for-the-badge)](https://github.com/Riliane05/2311COMP180201-TKWEB-49.01.103.068) | [![Home](https://img.shields.io/badge/🐻‍❄️_Website-FFB347?style=for-the-badge)](https://riliane05.github.io/2311COMP180201-TKWEB-49.01.103.068/#) |
 | updating... |  |  |  | 
 | updating... |  |  |  |
 
