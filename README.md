@@ -3,7 +3,7 @@
 
 ### ✨ Chào mừng đến với góc nhỏ GitHub của tui ✨  
 Tui hiện đang là sinh viên **ngành Sư phạm Tin học** tại **HCMUE** 🎓.  
-Tui hơi ngốc nghếch một chút 🐰, nhưng luôn thích học hỏi và chia sẻ kiến thức đó nha 💻💖.  
+Tui hơi ngốc nghếch một xíu 🐰, nhưng luôn thích học hỏi và chia sẻ kiến thức đó nha 💻💖.  
 
 ---
 
@@ -23,7 +23,7 @@ Tui hơi ngốc nghếch một chút 🐰, nhưng luôn thích học hỏi và c
 
 ---
 
-## 📊 Một chút thống kê GitHub
+## 📊 Thống kê GitHub
 | Học phần |  Quy mô | Repository | Website |
 |:---------:|:---------:|:---------:|:---------:|
 | Thiết kế Web<br> *(bài tập)* |  Cá nhân | [![TkWeb](https://img.shields.io/badge/🎀_Repository-blue?style=for-the-badge)](https://github.com/Riliane05/2311COMP180201-TKWEB-49.01.103.068) | [![Home](https://img.shields.io/badge/🐻‍❄️_Website-FFB347?style=for-the-badge)](https://riliane05.github.io/2311COMP180201-TKWEB-49.01.103.068/#) |
