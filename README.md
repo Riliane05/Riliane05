@@ -28,7 +28,6 @@ Tui hơi ngốc nghếch một xíu 🐰, nhưng luôn thích học hỏi và ch
 |:---------:|:---------:|:---------:|:---------:|
 | Thiết kế Web<br> *(bài tập)* |  Cá nhân | [![TkWeb](https://img.shields.io/badge/🎀_Repository-blue?style=for-the-badge)](https://github.com/Riliane05/2311COMP180201-TKWEB-49.01.103.068) | [![Home](https://img.shields.io/badge/🐻‍❄️_Website-FFB347?style=for-the-badge)](https://riliane05.github.io/2311COMP180201-TKWEB-49.01.103.068/#) |
 | Thiết kế Web<br> *(đồ án)* | Nhóm | [![CuoiKy](https://img.shields.io/badge/🎀_Repository-blue?style=for-the-badge)](https://github.com/NguyenHuong2609/2311COMP180201-TKWEB-BTNHOM) | [![Bus](https://img.shields.io/badge/🐻‍❄️_Website-FFB347?style=for-the-badge)](https://nguyenhuong2609.github.io/2311COMP180201-TKWEB-BTNHOM/btnhom/html/trangbia.html) | 
-| Công nghệ<br>Phần mềm | Nhóm | [![CNPM](https://img.shields.io/badge/🎀_Repository-blue?style=for-the-badge)](https://github.com/tnn309/linuxEducationFinal) | Download code<sub><br> *.NET 8, postgreSQL, git*</sub> |
 | *updating...* |  |  |  |
 | *updating...* |  |  |  |
 
